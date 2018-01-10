@@ -1,0 +1,23 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "Exercises resolution for Node School's stream-adventure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeteodoro/stream-adventure.git"
+  },
+  "keywords": [
+    "exercises",
+    "stream-adventure"
+  ],
+  "author": "Guilherme Teodoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermeteodoro/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/guilhermeteodoro/stream-adventure#readme"
+}
